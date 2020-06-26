@@ -1,0 +1,23 @@
+item {
+  id: 1
+  name: 'aphid'
+}
+
+item {
+  id: 2
+  name: 'PotatoBeetle'
+}
+item {
+  id: 3
+  name: 'Corn Rootworm'
+}
+
+item {
+  id: 4
+  name: 'Japanese Beetle'
+}
+item {
+  id: 5
+  name: 'Locust'
+}
+

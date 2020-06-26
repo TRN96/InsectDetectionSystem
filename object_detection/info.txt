@@ -1,0 +1,36 @@
+Information page.
+Insects Detection system (IDS) is a way that you can find the name and the suitable pesticide
+of the insect(s) in your upload.
+
+It will also tell you a confidence percentage of each successful insect detection in the upload.
+It will count each insect detected in the upload.
+Your upload can be a video or a photo.
+
+Since this is mainly for educational purposes, it is limited to:
+
+-Insects can be detected: 
+Japanese Beetles, Locusts, Aprid, Corn rootworm, Potato beetle
+
+- One image or One video at time (video must be less than 10 seconds)
+
+The GUI will return error if the file is oversized or invalid.
+
+
+In the main page you will find:
+
+Info Button 
+Holds Information about the IDS project.
+
+Upload Image button 
+You press it to upload an Image.
+
+Upload Video button
+You press it to upload a video.
+
+Image that you uploaded
+
+A frame of video that you uploaded
+
+Result Output
+
+ 
